@@ -1,6 +1,6 @@
 # Realtime chat application by Vue.js
 
-> A chat applcaition by using vue js. It is diployed to firebase hosting and using the firebase datastore.
+> This is the complete Real-time multi chat application by Vue,js with Firebase database. Any one can join the chat engine and communicate. This project is for the learning purpose only.
 
 ## Demo
 https://realtime-chat-bf225.firebaseapp.com/
